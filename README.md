@@ -1,4 +1,5 @@
 <h3>This Project is Deployed. You Can See it by clicking on this link "https://kaadi2023-textutils.netlify.app"</h3>
+<h5>TextUtils is a text editor where you can convert your text to Lowercase And Upercase As well As you can count word in your text and you can also see how many time it will take to read</h5>
 
 # Getting Started with Create React App
 
